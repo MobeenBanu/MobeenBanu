@@ -1,0 +1,28 @@
+{
+    font-family: 'courier name' ,courier,momospaces
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+.navlinks-container{
+    display: flex;
+    gap: 32px;
+}
+.logo{
+    font-size: 64px;
+    color:rgb(79, 4, 44);
+}
+.body-contanier{
+    width:90x;
+    marigin:auto;
+}
+.post-btn{
+    background-color: rgb(2, 23, 57);
+    padding: 8px 32px;
+    color:lavender;
+    border:0 ;
+    border-radius: 32px;
+    
+}
